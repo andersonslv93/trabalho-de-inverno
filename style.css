@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    flex-wrap: wrap;
+    background-color: #4B93BF;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100px;
+}
+
+li{
+    flex-wrap: wrap;
+    display: flex;
+    margin: 30px;
+    color: white;
+}
+
+.inicio{
+
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    margin-right: 700px;
+}
+
+.meio{
+    background-color: #E4EEF1;
+    display: flex;
+    align-items: center;
+    height: 400px;
+    justify-content: space-around;
+    padding: 200px;
+}
+
+.letra1{
+    width: 500px;
+    color: #0F468C;
+}
+
+.meiodois{
+    background-color: #4B93BF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.letra{
+    width: 500px;
+}
+
+.ursos{
+    background-color: #E4EEF1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    
+}
+
+footer{
+    background-color: #4B93BF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.redes{
+    display: flex;
+    justify-content: flex-start;
+    margin-right: 600px;
+    width: 80px;
+}
+
+.final{
+    display: flex;
+    justify-content: center;  
+    margin-right: 400px; 
+    width: 190px; 
+    color: white; 
+
+}
+
+.pinguim{
+    display: flex;
+    margin-left: 150px;
+}
+
+.separar{
+    margin-left: 20px;  
+    margin-top: 70px;
+}
